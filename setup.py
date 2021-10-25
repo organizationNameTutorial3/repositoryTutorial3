@@ -7,7 +7,7 @@ requirements = []#["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
     name="repositoryTutorial3",
-    version="0.0.1",
+    version="0.1.0",
     author="T d g",
     author_email="tdg@hotmail.com",
     description="A package to convert your Jupyter Notebook",
